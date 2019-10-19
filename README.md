@@ -1,0 +1,2 @@
+# motifsearch
+Motif Searching Example
