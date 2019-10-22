@@ -3,7 +3,7 @@
 Comparison of Branch-and-Bound and Greedy motif finding. Branch and Bound will choke on test1.fasta but Greedy will work.
 
 Command overview:
-MyMotifSearch sequence_filename.txt w op
+MotifSearch sequence_filename.txt w op
 Description: Program for finding motifs in sequences
 using branch and bound method and greedy search.
 
